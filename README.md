@@ -25,7 +25,7 @@ Icon, Splashscreen e tela login, autoral
 ### Concluir tarefa
 ![Concluir tarefa](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/check.png)
 
-#### Deletar tarefa
+#### Deletar tarefa 
 ![Deletar tarefa](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/delete.png)
 
 #### Ocultar tarefas concluídas 
