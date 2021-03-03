@@ -8,6 +8,7 @@
 
 #### Tela Login
 ![Tela Login](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/Login.png)
+![Tela Login](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/Screenshot_1614810482.png)
 
 #### Criar Conta
 ![Criar Conta](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/createAccount.png)
