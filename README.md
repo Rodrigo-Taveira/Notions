@@ -11,7 +11,10 @@
 
 
 #### Adicionar tarefa
-![Adicionar tarefa]()
+![Adicionar tarefa](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/addTask1.png)
+![Adicionar tarefa](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/addTask2.png)
+![Adicionar tarefa](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/addTask3.png)
+
 
 #### Deletar tarefa
 ![Deletar tarefa]()
