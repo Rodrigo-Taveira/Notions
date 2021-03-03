@@ -16,9 +16,10 @@
 #### Deletar tarefa
 ![Deletar tarefa]()
 
-#### Marcar tarefa como concluída
-![Marcar tarefa como concluída]()
+#### Ocultar tarefas concluídas 
+![Marcar tarefa como concluída](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/mark1.png)
 
+![Marcar tarefa como concluída](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/mark2.png)
 
 ![]()
 
