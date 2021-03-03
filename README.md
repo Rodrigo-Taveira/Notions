@@ -1,3 +1,6 @@
+Projeto decorrido do curso de React native
+Icon, Splashscreen e tela login, autoral
+
 # Notions
 
 ## Aplicação baseado todolist 
@@ -32,6 +35,3 @@
 
 #### Realizar logout
 ![Logout](https://github.com/Rodrigo-Taveira/Notions-React-Native/blob/master/images/logout.png)
-
-
-![]()
