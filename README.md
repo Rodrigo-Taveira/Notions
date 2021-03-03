@@ -1,4 +1,4 @@
-Projeto decorrido do curso de React native
+Projeto decorrido do curso de React native.
 Icon, Splashscreen e tela login, autoral
 
 # Notions
